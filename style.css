@@ -8,12 +8,15 @@ html{
 .logo{
     background-color: black;
     letter-spacing:4px;
-    max-height:100px;
+    
     color:white;
     padding:50px 100px;
 }
+.container{
+    height:850px;
+}
 .section{
-    height:300px;
+    height:8rem;
     background:linear-gradient(
         to right,
         rgba(105,62,27,0.5),
