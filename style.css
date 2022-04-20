@@ -12,11 +12,11 @@ html{
     color:white;
     padding:50px 100px;
 }
-.container{
+/* .container{
     height:850px;
-}
+} */
 .section{
-    height:8rem;
+    height:20rem;
     background:linear-gradient(
         to right,
         rgba(105,62,27,0.5),
